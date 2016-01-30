@@ -1,4 +1,7 @@
 {
+	"a": {
+ -		"users": [],
+	},
 	"developer": {
 		"users": ["zdGVzdGluZzA=0","zVmVyZ2Fub20=0"],
 		"date": "2016/01/29",
@@ -7,7 +10,7 @@
 		"state": true
 	},
 	"mensual": {
-		"users": ["RYAMX"],
+		"users": ["zUHl0aG9uZXJv0"],
 		"date": "2016/01/29",
 		"days": "30",
 		"v": 32,
